@@ -52,4 +52,9 @@ main {
     }
 }
 
-.card-content:hover
+footer {
+    background-color: #ff6347;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}

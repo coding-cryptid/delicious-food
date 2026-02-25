@@ -20,7 +20,7 @@ header {
 
 main {
     padding: 20px;
-
+    flex-grow: 1;
 }
 
 #cards-container {

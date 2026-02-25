@@ -23,12 +23,6 @@ main {
     flex-grow: 1;
 }
 
-#section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 #cards-container {
     display: flex;
     flex-wrap: wrap;

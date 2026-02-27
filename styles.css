@@ -21,6 +21,8 @@ header {
 main {
     padding: 20px;
     flex-grow: 1;
+    display: flex;
+    justify-content: center;
 }
 
 #separation {
